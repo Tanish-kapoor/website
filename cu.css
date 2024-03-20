@@ -1,0 +1,37 @@
+body {
+    background-color: rgba(96, 96, 255, 0.503);
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+h1 {
+    text-align: center;
+    border-bottom: 3px solid;
+}
+
+form{
+    border: 3px solid rgba(50, 132, 255, 0.644) ;
+    border-radius: 20px;
+    width: 50%;
+    border-style: dashed;
+}
+
+footer {
+    background: #000000e6;
+}
+
+.p-3 {
+    color: #00b893
+}
+
+
+
+h4 {
+    color: #00ffccd6;
+}
+.name1{
+    text-align: center;
+}
+
